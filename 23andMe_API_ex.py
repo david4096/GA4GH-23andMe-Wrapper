@@ -1,0 +1,1 @@
+# Simple tool using the 23andMe API to gain an understanding of how it works and what it can do
